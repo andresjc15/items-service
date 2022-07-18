@@ -1,5 +1,6 @@
 package com.ajcp.item.model.entity;
 
+import com.ajcp.library.common.model.entity.Product;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
